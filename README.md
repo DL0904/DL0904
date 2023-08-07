@@ -1,1 +1,2 @@
-# Hello World! \n ## My first Golang repo
+# Hello World! 
+## My first Golang repo
